@@ -1,0 +1,24 @@
+img {
+  width: 200px;
+  border-radius: 100%;
+}
+div {
+  width: 800px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  margin: 50px auto;
+  padding: 50px;
+
+}
+img{
+  float: left;
+}
+h1{
+  float: left;
+  margin-left: 50px;
+}
+header{
+  height: 250px;
+  line-height: 200px;
+}
